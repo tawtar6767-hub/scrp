@@ -1,0 +1,7 @@
+python-telegram-bot
+python-dateutil
+aiofiles
+telethon
+httpx
+requests
+aiohttp
