@@ -30,9 +30,9 @@ from telethon.sessions import StringSession
 # =================================================================
 # CONFIGURATION & SETUP
 # =================================================================
-BOT_TOKEN = "8724576369:AAEqK7LcrqWg2jKQUSTXBXOcYkncHkOaOnc"  # <-- Put your bot token here
-API_ID = 32871507
-API_HASH = "f1e8b3301a331bd1a850768162c6503f"
+BOT_TOKEN = "8808287130:AAFfodgI7JfeRMlQOv3L9_g4ev18uHXboDs"  # <-- Put your bot token here
+API_ID = 33441469
+API_HASH = "95ec76c716581fd8231b1dbfda540239"
 
 # Directories
 SESSIONS_DIR = "user_sessions"
