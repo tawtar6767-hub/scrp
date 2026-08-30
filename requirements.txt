@@ -5,3 +5,7 @@ telethon
 httpx
 requests
 aiohttp
+pyrogram==2.0.106
+aiofiles==23.2.1
+cryptg==2023.11.4
+psutil==5.9.6
