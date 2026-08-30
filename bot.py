@@ -35,10 +35,10 @@ app = Client(
 )
 
 user = Client(
-    "session_959671349801",
+    "session_923294013197",
     api_id=API_ID,
     api_hash=API_HASH,
-    phone_number="+959",
+    phone_number="+959671349801",
     workers=1000
 ) # @Mod_By_Kamal
 
